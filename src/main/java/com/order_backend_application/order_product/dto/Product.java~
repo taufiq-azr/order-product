@@ -1,0 +1,10 @@
+package com.order_backend_application.order_product.dto;
+
+public class Product {
+
+    private Long id;
+    private String productName;
+    private String type;
+    private Double price;
+    private String supplier;
+}
